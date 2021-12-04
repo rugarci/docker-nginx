@@ -3,7 +3,8 @@
 #
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
-FROM alpine:3.15
+#FROM alpine:3.15
+FROM alpine:3.12.9
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
